@@ -37,8 +37,6 @@ jobs:
         run: yarn install
       - name: Build TypeScript
         run: yarn build
-      - name: Build Bundle
-        run: yarn bundle
       - name: Run test command
         run: yarn test:coverage
       - name: Upload Code coverage

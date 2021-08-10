@@ -10,8 +10,8 @@
     "build": "tsc",
     "test": "jest",
     "test:coverage": "jest --coverage",
-    "docs": "npx --yes typedoc",
-    "release": "npx --yes semantic-release"
+    "docs": "npx typedoc",
+    "release": "npx semantic-release"
   },
   "dependencies": {
     "@discordjs/collection": "^0.2.1",
@@ -25,6 +25,7 @@
     "xmlbuilder": "^15.1.1"
   },
   "devDependencies": {
+    "@kaaaxcreators/config": "^1.1.1",
     "@types/jest": "^26.0.24",
     "@types/node": "^16.4.13",
     "@types/papaparse": "^5.2.6",
