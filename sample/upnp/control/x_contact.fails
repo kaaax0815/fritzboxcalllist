@@ -1,0 +1,1 @@
+<envelope><body><fault><faultcode>FAULTCODE</faultcode><faultstring>FAULTSTRING</faultstring><detail><upnperror><errorcode>ERRORCODE</errorcode><errordescription>ERRORDESCRIPTION</errordescription></upnperror></detail></fault></body></envelope>

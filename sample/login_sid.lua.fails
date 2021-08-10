@@ -1,0 +1,10 @@
+<SessionInfo>
+<SID>0000000000000000</SID> <!-- Fake success sid -->
+<Challenge>ec9ef619</Challenge>
+<BlockTime>0</BlockTime>
+<Rights/>
+<Users>
+<User last="1">FritzBox</User>
+<User>SYSTEM</User>
+</Users>
+</SessionInfo>

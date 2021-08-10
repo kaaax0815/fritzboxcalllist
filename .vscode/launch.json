@@ -1,0 +1,15 @@
+{
+  // Credits: https://blog.logrocket.com/how-to-debug-node-js-apps-in-visual-studio-code/
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "type": "pwa-node",
+          "request": "launch",
+          "name": "Run Tests",
+          "runtimeExecutable": "${workspaceRoot}/node_modules/.bin/jest",
+          "cwd": "${workspaceRoot}",
+          "protocol": "inspector",
+          "console": "integratedTerminal",
+      }
+  ]
+}
