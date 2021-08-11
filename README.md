@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/kaaax0815/fritzboxcalllist/branch/main/graph/badge.svg?token=LHVTQS0EJ2)](https://codecov.io/gh/kaaax0815/fritzboxcalllist)
 [![Release CI](https://github.com/kaaax0815/fritzboxcalllist/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/kaaax0815/fritzboxcalllist/actions/workflows/release.yml)
-![npm](https://img.shields.io/npm/v/fritzboxcalllist)
+[![npm](https://img.shields.io/npm/v/fritzboxcalllist)](https://www.npmjs.com/package/fritzboxcalllist)
 ![TypeScript](https://badgen.net/badge/TypeScript/strict%20💪/blue)
 
 ## 💻 First Start
