@@ -27,7 +27,7 @@
   "devDependencies": {
     "@kaaaxcreators/config": "^1.1.1",
     "@types/jest": "^27.0.1",
-    "@types/node": "^16.7.2",
+    "@types/node": "^16.7.3",
     "@types/papaparse": "^5.2.6",
     "@types/superagent": "^4.1.12",
     "@types/underscore": "^1.11.3",
