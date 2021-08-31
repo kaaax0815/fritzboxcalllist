@@ -2050,13 +2050,13 @@ cssstyle@^2.3.0:
   dependencies:
     cssom "~0.3.6"
 
-das-telefonbuch-scraper@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/das-telefonbuch-scraper/-/das-telefonbuch-scraper-2.0.0.tgz#bb44ae1ed24ad9232cbc1944e73125f446986a51"
-  integrity sha512-eqqd3oKe2JMZmQLmSgJYDsTOLkCB1QC/oD0lTJKHvMe0TjRqGaIxuVxl5dt8r6Q6NdfW++4BbmRVeIMVnSKjoA==
+das-telefonbuch-scraper@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/das-telefonbuch-scraper/-/das-telefonbuch-scraper-2.0.1.tgz#33199c630692478119b15ac4563d0484d479c022"
+  integrity sha512-Z7Hm8sh9Rl0ng6Ey8b5MxPZDADXZpWed4vjtygGJpKT9bhWE1Gi55I70ZRXBuiSWAIdjy+ULtJv1FIYFt+hq+Q==
   dependencies:
     axios "^0.21.1"
-    node-html-parser "^4.1.3"
+    node-html-parser "^4.1.4"
     prompts "^2.4.1"
 
 dashdash@^1.12.0:
@@ -4701,10 +4701,10 @@ node-gyp@^7.1.0, node-gyp@^7.1.2:
     tar "^6.0.2"
     which "^2.0.2"
 
-node-html-parser@^4.1.3:
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-4.1.3.tgz#993f42273c97bc0b1171f3c7e4d2f7959defc96a"
-  integrity sha512-jWFd9TBxDJ0hXkvPKxiWXy4R87ZoIjYj5P2twbef3q/E4vJyFt8TTRQ68ssHYW5Aozwth4SWHOPT6yfDd/gzQQ==
+node-html-parser@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-4.1.4.tgz#93e86ef1a1f02202d6a860a78c24c8dc009d8dd0"
+  integrity sha512-Uk9zI1IhGrPTfUyhRvImKGZspsqJ0ss6aRysGfkDuPDPfLisMlInYT/3FCydsC2UamzPPhpOax9xbTVUsO6n8Q==
   dependencies:
     css-select "^4.1.3"
     he "1.2.0"
