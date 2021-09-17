@@ -29,7 +29,7 @@
     "@types/jest": "^27.0.1",
     "@types/node": "^16.9.1",
     "@types/papaparse": "^5.2.6",
-    "@types/superagent": "^4.1.12",
+    "@types/superagent": "^4.1.13",
     "@types/underscore": "^1.11.3",
     "@types/xml2js": "^0.4.9",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
