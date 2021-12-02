@@ -30,7 +30,7 @@
     "@types/node": "^16.11.11",
     "@types/papaparse": "^5.3.1",
     "@types/superagent": "^4.1.13",
-    "@types/underscore": "^1.11.3",
+    "@types/underscore": "^1.11.4",
     "@types/xml2js": "^0.4.9",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
