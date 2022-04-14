@@ -39,4 +39,4 @@ jobs:
       - name: Run test command
         run: yarn test:coverage
       - name: Upload Code coverage
-        uses: codecov/codecov-action@v2
+        uses: codecov/codecov-action@v3
