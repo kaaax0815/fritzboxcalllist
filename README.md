@@ -1,3 +1,4 @@
+Not maintained anymore. May still work
 # FritzBox Call List
 
 [![codecov](https://codecov.io/gh/kaaax0815/fritzboxcalllist/branch/main/graph/badge.svg?token=LHVTQS0EJ2)](https://codecov.io/gh/kaaax0815/fritzboxcalllist)
